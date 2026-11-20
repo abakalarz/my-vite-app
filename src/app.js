@@ -19,7 +19,7 @@ const myLocations = [
   },
   {
     name: "Rüyam Gemüse Kebab",
-    location: [52.484832312584984, 13.352433734328235],
+    location: [52.484478100335345, 13.352329845857332],
     description: "A popular and delicious Berlin kebab spot.",
   },
 ];
